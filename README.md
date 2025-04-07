@@ -1,4 +1,4 @@
- # Cmpe591 Deep Learning for Robotics Project 2: 
+ # Cmpe591 Deep Learning for Robotics Project 4: 
 
 ## How to run:
 homework4.py contains the data collecting and training script in the __main__ block using the pre-implemented CNP class.
